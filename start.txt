@@ -1,11 +1,3 @@
-start
-stop
-intermediate
-successful
-successfully pushed the code
-pull the code
-run the code
-
 package mypackage;
 
 import java.io.IOException;
